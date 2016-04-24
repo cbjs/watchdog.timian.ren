@@ -1,0 +1,22 @@
+{
+  "name": "watchdog.timian.ren",
+  "version": "1.0.0",
+  "description": "website of watch dog project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cbjs/watchdog.timian.ren.git"
+  },
+  "author": "cbjs.deng@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbjs/watchdog.timian.ren/issues"
+  },
+  "homepage": "https://github.com/cbjs/watchdog.timian.ren#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
